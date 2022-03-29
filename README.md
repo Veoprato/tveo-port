@@ -4,7 +4,7 @@
   ## Description
   A basic portfolio created using the fundementals learned about CSS
   
-  Deployed link: https://veoprato.github.io/tveo-port/#work
+  Deployed link: https://veoprato.github.io/tveo-port/
   
   ## License
   This application is covered under the WTFPL license
